@@ -8,4 +8,4 @@ RIGHT ARROW -> Move right\
 LCTRL -> Run faster\
 SPACE -> Jump\
 Z -> Shoot Laser\
-LALT -> Activate Shield\
+LALT -> Activate Shield
